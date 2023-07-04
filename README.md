@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm A.  Welcome to my portfolio where I shall be documenting my ongoing projects as I develop my skills as X X. 
+
 📚 A brief introduction of yourself.
 Your skills, such as data analysis, SQL, Python, Tableau, web development, etc.
 Advanced features like visitor counts, clickable icons, etc. (Note: you may need to do some research to learn how to implement these features)
