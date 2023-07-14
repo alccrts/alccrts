@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm A.  Welcome to my portfolio where I shall be documenting my ongoing projects as I develop my skills as X X. 
+I'm Alxc.  Welcome to my portfolio where I shall be documenting my ongoing projects as I develop my skills as data specialist. 
+
+## 📚 Table of Contents
+- [SQL Projects](#sql)
+- [Python Projects](#python)
+- [Tableau Projects](#tableau)
+- [Data Analyst Case Studies](#)
+- [🎶Bonus: Creative Project Managament🎨](#creative-project-managment)
 
 📚 A brief introduction of yourself.
 Your skills, such as data analysis, SQL, Python, Tableau, web development, etc.
@@ -19,21 +26,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: 
 - ⚡ Fun fact: ...
 -->
-# 📢 A's Portfolio
-
-Welcome to my Data & Programming porfolio.  Here is a guide to my projects as I develop my skills in the field. 
-
-## 📚 Table of Contents
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
-- [More Data Analyst Case Studies](#)
-- [Creative Project Managament](#creative-project-managment)
-
 
 # SQL
 
