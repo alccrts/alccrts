@@ -7,7 +7,7 @@ I'm Alec.   Welcome to my portfolio where I shall be documenting my work as I de
 - [Python Projects](#python)
 - [Tableau Projects](#tableau)
 - [Data Analyst Case Studies](#)
-- [🎶 Bonus >> Creative Project Managament Portfolio 🎨](#creative-project-managment)
+- [Bonus! Creative Project Managament Portfolio 🎨🎶 ](#creative-project-managment)
 
 📚 A brief introduction of yourself.
 Your skills, such as data analysis, SQL, Python, Tableau, web development, etc.
