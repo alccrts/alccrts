@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Alec.   Welcome to my portfolio where I shall be documenting my work as I develop my skills as data specialist. 
+I'm Alec.   Welcome to my portfolio where I shall be documenting my work as I develop my skills as a data specialist. 
 
 ## 📚 Table of Contents
 - [SQL Projects](#sql)
