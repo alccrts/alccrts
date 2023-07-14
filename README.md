@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# SQL
+### SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ***
 
-# Python
+### Python
 
 | Project Link | Area | Project Description | 
 |---|---|---|
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ***
 
-# Tableau
+### Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 ***
 
-# Creative Project Managment
+### Creative Project Managment
 
 Link to portfolio.
