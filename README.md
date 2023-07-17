@@ -2,7 +2,7 @@
 
 I'm Alec!   Welcome to my portfolio where I shall be sharing my work as I advance my skills as a data specialist.
 
-I'm currently exploring the world of data analytics and steadily teaching myself various technical skills such as SQL, Python, R Studio and Data Viz.  I am particularly excited about gaining analytical experience in the tech and media industries.  I will use this Github page to document my experiments and my progress.
+I'm currently exploring the world of data analytics and steadily teaching myself various technical skills such as SQL, Python, R Studio and Data Viz.  I am particularly excited about gaining analytical experience in the tech and media industries.  I will use this Github page to document my experiments and progress.
 
 #### 📚 Table of Contents
 - [SQL Projects](#sql)
