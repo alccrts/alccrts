@@ -11,6 +11,6 @@ I'm currently exploring the world of data analytics and steadily teaching myself
 
 #### Bonus!
 
-In addition to my professional experience, I have a rich portfolio of freelance work in the cultural industry, including projecs for NTS Live, BBC Radio, Fiorucci Arts Trust and my own events series Foggy Hex.  
+In addition to my professional experience, I have a rich portfolio of freelance work in the cultural industry, including projecs for [NTS Live](www.nts.live), [BBC Radio](https://www.bbc.co.uk/mediacentre/proginfo/2017/40/hear-and-now-cave), [Fiorucci Arts Trust](https://fiorucciartrust.com/) and my own events series [Foggy Hex](https://www.foggyhexbcn.com/).  
 
 [🖼 🎵 Bonus! Creative Project Managament Portfolio  🎨 🎧 ](#creative-project-managment)
