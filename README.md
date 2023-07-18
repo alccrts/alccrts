@@ -9,7 +9,7 @@ I am particularly excited about gaining analytical experience in the tech and me
 #### 📚 Table of Contents
 - [SQL Projects](https://github.com/alccrts/SQL_Projects)
 - [Python Projects](https://github.com/alccrts/Python_Projects)
-- [Tableau Projects (coming soon)](#tableau)
+- Tableau Projects (coming soon)
 
 #### Bonus!
 
