@@ -6,8 +6,8 @@ I'm currently exploring the world of data analytics and steadily teaching myself
 
 #### 📚 Table of Contents
 - [SQL Projects](https://github.com/alccrts/SQL_Projects)
-- [Python Projects](https://github.com/alccrts/Python_Projects)
 - [Data Visualisations](https://github.com/alccrts/Data_Visualizations)
+- [Python Projects](https://github.com/alccrts/Python_Projects)
 
 #### Bonus!
 
