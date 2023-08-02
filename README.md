@@ -5,11 +5,11 @@ I'm Alec, welcome to my portfolio!
 I'm currently exploring the world of data analytics and steadily teaching myself various technical skills such as SQL, Python, R Studio and Data Viz.  I will use this Github page to document my experiments and progress.  I am particularly excited about gaining analytical experience in the tech and media industries.  
 
 #### 📚 Highlights so far:
-- [Analysis of UK Arts Funding](https://github.com/alccrts/SQL_Projects)
-- [Data Cleaning Practice](https://github.com/alccrts/Data_Visualizations)
-- [SQL Challenges](https://github.com/alccrts/Python_Projects)
-- [Excel Dashboard Practice](https://github.com/alccrts/Python_Projects)
-- [Python Project Euler solutions](https://github.com/alccrts/Python_Projects)
+- [Analysis of UK Arts Funding](https://github.com/alccrts/SQL_Projects/blob/main/Review%20of%20UK%20Arts%20Funding.md)
+- [Data Cleaning Practice](https://github.com/alccrts/SQL_Projects/blob/main/Data%20Cleaning%20(The%20Met%20Art%20Data).md)
+- [SQL Challenges](https://github.com/alccrts/SQL_Projects/tree/main/SQL%20Challenges)
+- [Excel Dashboard Practice](https://github.com/alccrts/Data_Visualizations/blob/main/Excel%20Dashboard%201.md)
+- [Python Project Euler solutions](https://github.com/alccrts/Python_Projects/tree/main/Project_Euler_Solutions)
 
 I have completed the [Google Data Analytics Professional Certificate](https://grow.google/intl/ALL_ca/certificates/data-analytics/#?modal_active=none) and I'm studying Python via the University of Helsinki's 'Intro & Advanced Progamming' course.  
 
